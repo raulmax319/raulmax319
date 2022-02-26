@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift, Kotlin**
 
-- 🤝 I’m looking for **freelancing**
+- 🤝 I’m looking for **New Challenges**
 
 - 💬 Ask me about **React JS, React Native, TypeScript**
 
