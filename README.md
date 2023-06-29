@@ -1,4 +1,4 @@
-<h3 align="center">Olá/Hello/どうも 👋</h3>
+<h2 align="center">Olá/Hello/どうも 👋</h2>
 
 🌏 🇧🇷/🇺🇸/🇯🇵<br />
 My name is Raul Max. I am an iOS Engineer.
